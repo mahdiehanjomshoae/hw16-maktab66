@@ -1,0 +1,17 @@
+.register{
+    direction: rtl;
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    border-color: rgb(0, 145, 31) !important;
+    color: rgb(194, 194, 194) !important;
+}
+
+.register option{
+    color: black;
+    background-color: rgb(0, 145, 31);
+    font-size: 15px;
+}
+
+.hide{
+    display: none;
+}
